@@ -36,6 +36,8 @@ int uocchung(int a,int b){
 	return a+b;
 }
 
+
+
 bool sochinhphuong(int n){
 	int i;
 	while(i*i<n){
